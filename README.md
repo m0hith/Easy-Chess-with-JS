@@ -1,10 +1,10 @@
 <h1>Easy Chess with JavaScript</h1>
 
-
-
 <div align="center">
   <img src="board.png" alt="Chess Board">
 </div>
+
+## Access the game here: [Play Now](https://m0hith.github.io/Easy-Chess-with-JS/)
 
 ## Introduction
 
