@@ -4,7 +4,9 @@
   <img src="board.png" alt="Chess Board">
 </div>
 
-### Access the game here: [Play Now](https://m0hith.github.io/Easy-Chess-with-JS/)
+<h3>
+<p>Access it here: <a href="https://m0hith.github.io/Easy-Chess-with-JS/">Play Now</a>.</p>
+</h3>
 
 ## Introduction
 
