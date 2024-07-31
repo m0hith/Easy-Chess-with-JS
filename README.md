@@ -5,7 +5,7 @@
 </div>
 
 <h3>
-<p>Access it here: <a href="https://m0hith.github.io/Easy-Chess-with-JS/" target="_blank" rel="noopener noreferrer">Play Now</a></p>
+<p>Access it here: <a href="https://m0hith.github.io/Easy-Chess-with-JS/" target="_blank">Play Now</a></p>
 </h3>
 
 ## Introduction
