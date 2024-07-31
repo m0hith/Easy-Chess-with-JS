@@ -4,9 +4,8 @@
   <img src="board.png" alt="Chess Board">
 </div>
 
-<h3>
-<p>Access it here: <a href="https://m0hith.github.io/Easy-Chess-with-JS/" target="_blank">Play Now</a></p>
-</h3>
+### Access it here: [Play Now]("https://m0hith.github.io/Easy-Chess-with-JS/)
+
 
 ## Introduction
 
@@ -36,5 +35,5 @@ Remember, this project is designed to be a simple implementation of chess, witho
 Thank you for checking out this simple game of chess project! If you have any questions, or feedback, please feel free to reach out to me!
 
 <h3>
-<p>LinkedIn: <a href="https://www.linkedin.com/in/mo-hith/" target="_blank" rel="noopener noreferrer">Mohith Jarapala</a></p>
+<p>LinkedIn: <a href="https://www.linkedin.com/in/mo-hith/">Mohith Jarapala</a></p>
 </h3>
